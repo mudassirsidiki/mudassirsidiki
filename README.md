@@ -8,6 +8,10 @@
   <br />
 </div>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mudassirsidiki)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mudassirsidiki@gmail.com)
+
 
 # 💫 About Me:
 💻 Full Stack Developer + 📊 Data Analyst passionate about building scalable web apps and turning data into meaningful insights.<br>🚀 Currently working on modern dashboards, full-stack applications, and smart user experiences.<br>📈 Created multiple Power BI reports, dynamic websites, and backend APIs to solve real-world problems.<br>💻 I use daily: .py, .js, .sql, .ts<br>⚙️ I build with: React.js, Tailwind CSS, Node.js, Express.js, Power BI, Python (Pandas), MongoDB, Excel<br>🎯 Interests: Full-stack development, data visualization, UI/UX design, automation, and AI integration<br>⚽ Fun fact: I’ve been playing football for 8+ years teamwork and strategy fuel my code!
@@ -17,9 +21,6 @@
 <p align="center"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="55"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="55" height="55"/> </p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mudassirsidiki)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mudassirsidiki@gmail.com)
 
 
 # 💻 Tech Stack:
