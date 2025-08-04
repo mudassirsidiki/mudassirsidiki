@@ -3,10 +3,12 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my GitHub Profile" />
   <br />
   <br />
-  <img height="60" alt="Hi, I'm Mudassir Siddiqui — I build full stack apps and turn data into insights" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F79D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mudassir+Siddiqui+%F0%9F%91%8B;Full+Stack+Developer+%26+Data+Analyst;Data+Engineer+%7C+Insights+from+Data;I+love+building+modern+UIs+and+dashboards;Learning+something+new+every+day!" />
+  <img height="60" alt="Hi, I'm Mudassir Siddiqui — Full Stack Developer, Data Engineer, and Data Analyst" 
+       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F79D&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mudassir+Siddiqui+%F0%9F%91%8B;Full+Stack+Developer+%7C+Data+Engineer+%7C+Data+Analyst;Building+modern+web+apps+%26+dashboards;Turning+data+into+insights;Always+learning+something+new!" />
   <br />
   <br />
 </div>
+
 
 
 ## 🌐 Socials:
